@@ -7,6 +7,8 @@ spark = SparkSession.builder\
     .master('local')\
     .getOrCreate()
 
+print('hello')
+
 # 1) map function, from RDD
 rdd = spark.sparkContext.parallelize([1, 2, 3, 4])
 result = rdd.map(lambda x: x * x)
