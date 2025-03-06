@@ -1,0 +1,41 @@
+{
+  "business_id": "tUFrWirKiKi_TAnsVWINQQ",
+  "name": "Target",
+  "address": "5255 E Broadway Blvd",
+  "city": "Tucson",
+  "state": "AZ",
+  "postal_code": "85711",
+  "latitude": 32.223236,
+  "longitude": -110.880452,
+  "stars": 3.5,
+  "review_count": 22,
+  "is_open": 0,
+  "attributes": {
+    "BikeParking": "True",
+    "BusinessAcceptsCreditCards": "True",
+    "RestaurantsPriceRange2": "2",
+    "CoatCheck": "False",
+    "RestaurantsTakeOut": "False",
+    "RestaurantsDelivery": "False",
+    "Caters": "False",
+    "WiFi": "u'no'",
+    "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+    "WheelchairAccessible": "True",
+    "HappyHour": "False",
+    "OutdoorSeating": "False",
+    "HasTV": "False",
+    "RestaurantsReservations": "False",
+    "DogsAllowed": "False",
+    "ByAppointmentOnly": "False"
+  },
+  "categories": "Department Stores, Shopping, Fashion, Home & Garden, Electronics, Furniture Stores",
+  "hours": {
+    "Monday": "8:0-22:0",
+    "Tuesday": "8:0-22:0",
+    "Wednesday": "8:0-22:0",
+    "Thursday": "8:0-22:0",
+    "Friday": "8:0-23:0",
+    "Saturday": "8:0-23:0",
+    "Sunday": "8:0-22:0"
+  }
+}
